@@ -1,0 +1,10 @@
+browser=chrome
+url=http://localhost:8888/
+un=9008109357
+pwd=bgb1212$
+pwd1=bgb121
+un1=9008109357
+un2=9008105693
+pwd2=bgb1212$
+un3=900810935
+un4=90081093577
